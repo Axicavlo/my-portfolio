@@ -1,6 +1,6 @@
 # CREATE MY OWN LIFE | Portfolio Web
 
-나만의 가치를 만드는 개발자, **장용민**의 포트폴리오 웹사이트입니다.  
+포트폴리오 웹사이트입니다.  
 Next.js 15 App Router와 Turbopack을 활용하여 빠르고 쾌적한 사용자 경험을 제공하도록 설계되었습니다.
 
 ## Live Demo
