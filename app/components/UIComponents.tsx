@@ -114,7 +114,7 @@ export function Footer() {
   return (
     <footer className="w-full py-15 bg-zinc-900/80 backdrop-blur-md text-zinc-200 flex flex-col items-center justify-center gap-6">
       <div className="flex gap-8">
-        <a href="https://github.com/JangYongMin" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500 transition-colors font-bold tracking-widest uppercase">GitHub</a>
+        <a href="https://github.com/Axicavlo" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500 transition-colors font-bold tracking-widest uppercase">GitHub</a>
         <a href="mailto:yongmin0182@gmail.com" className="hover:text-blue-500 transition-colors font-bold tracking-widest uppercase">Email</a>
         <a href="https://www.linkedin.com/in/%EC%9A%A9%EB%AF%BC-%EC%9E%A5-a5b1553a2/" target="_blank" rel="noopener noreferrer" className="hover:text-blue-500 transition-colors font-bold tracking-widest uppercase">LinkedIn</a>
       </div>

@@ -18,7 +18,7 @@ export const projectData: ProjectItem[] = [
     description: "도서 검색, 대출, 예약 및 관리자 기능을 통합한 도서관 웹 서비스(팀장, 5인)", 
     skills: ["Java 11", "JSP/Servlet", "Oracle 11g", "jQuery", "Ajax"], 
     pdfUrl: "https://firebasestorage.googleapis.com/v0/b/portfolio-83772.firebasestorage.app/o/Project(KHLibrary).pdf?alt=media&token=cf4daa93-3352-49f0-849d-eb1d4854eea2", 
-    githubUrl: "https://github.com/JangYongMin/KH_Library", 
+    githubUrl: "https://github.com/Axicavlo/KH_Library", 
     details: [
       "도서 대출/반납/예약 로직 및 대출 수 제한 등 마이페이지 기능 통합 구현", 
       "관리자 전용 도서 CRUD 및 카테고리 동적 추가/삭제 시스템 개발", 
@@ -45,7 +45,7 @@ export const projectData: ProjectItem[] = [
     period: "2025.11.24", 
     description: "Google Gemini AI를 연동한 실시간 대화형 디스코드 봇(개인)", 
     skills: ["Python", "Discord API", "Google Gemini AI", "Asyncio"], 
-    pdfUrl: "", githubUrl: "https://github.com/JangYongMin/discord_gemini_bot", 
+    pdfUrl: "", githubUrl: "https://github.com/Axicavlo/discord_gemini_bot", 
     details: [
       "Gemini AI 연동으로 실시간 대화 및 메시지 송수신 구현", 
       "비동기 프로그래밍을 통한 효율적인 봇 응답 처리 최적화"
@@ -58,7 +58,7 @@ export const projectData: ProjectItem[] = [
     description: "실시간 주식 뉴스 수집기(개인)", 
     skills: ["JavaScript", "Node.js", "Web Scraping"], 
     pdfUrl: "", 
-    githubUrl: "https://github.com/JangYongMin/stock_news", 
+    githubUrl: "https://github.com/Axicavlo/stock_news", 
     details: [
       "Node.js 환경에서 실시간 주식 관련 뉴스 데이터 수집 구축", 
       "비동기 통신 및 데이터 필터링 로직 구현"
@@ -71,7 +71,7 @@ export const projectData: ProjectItem[] = [
     description: "Next.js 16 기반 반응형 포트폴리오 웹사이트(개인)", 
     skills: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "Vercel"], 
     pdfUrl: "", 
-    githubUrl: "https://github.com/JangYongMin/my-portfolio", 
+    githubUrl: "https://github.com/Axicavlo/my-portfolio", 
     details: [
       "Framer Motion을 이용한 고도화된 스크롤 애니메이션 구현",
       "Next.js App Router 기반의 최적화된 컴포넌트 구조 설계",

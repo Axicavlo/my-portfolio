@@ -155,7 +155,7 @@ export default function Home() {
         <div className="max-w-6xl w-full flex flex-col md:flex-row items-center justify-center gap-12 md:gap-24">
           <div className="flex items-center gap-6">
             <motion.div className="flex flex-col gap-8 shrink-0 pr-4 z-0" initial="hidden" whileInView="visible" viewport={{ once: false, amount: 0.5 }} variants={socialContainerVariants}>
-              <motion.div variants={socialItemVariants}><SocialIcon href="https://github.com/JangYongMin" icon="github" src="/icons/github-mark.svg" /></motion.div>
+              <motion.div variants={socialItemVariants}><SocialIcon href="https://github.com/Axicavlo" icon="github" src="/icons/github-mark.svg" /></motion.div>
               <motion.div variants={socialItemVariants}><SocialIcon href="https://discord.gg/SPamqcaV4d" icon="discord" src="/icons/discord-symbol-white.svg" /></motion.div>
               <motion.div variants={socialItemVariants}><SocialIcon href="https://www.linkedin.com/in/%EC%9A%A9%EB%AF%BC-%EC%9E%A5-a5b1553a2/" icon="linkedin" src="/icons/InBug-White.png" /></motion.div>
             </motion.div>
